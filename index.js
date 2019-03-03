@@ -24,7 +24,7 @@ module.exports = function hook(sails) {
         create: require(sailsBlueprintsDir + '/create'),
         destroy: require(sailsBlueprintsDir + '/destroy'),
         find: require(sailsBlueprintsDir + '/find'),
-        findone: require(sailsBlueprintsDir + '/findone'),
+        findone: require(sailsBlueprintsDir + '/findOne'),
         populate: require(sailsBlueprintsDir + '/populate'),
         remove: require(sailsBlueprintsDir + '/remove'),
         replace: require(sailsBlueprintsDir + '/replace'),
