@@ -1,0 +1,28 @@
+{
+  "name": "sails-hook-blueprints-extended",
+  "version": "1.1.0",
+  "description": "A Sails.js hook to add custom blueprints, and expose default blueprint functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha tests/lifecycle.test.js"
+  },
+  "sails": {
+    "isHook": true,
+    "hookName": "extblueprints"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "app-root-path": "^2.1.0",
+    "include-all": "^3.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ian-collier/sails-blueprints-override.git"
+  },
+  "author": "ian-collier",
+  "bugs": {
+    "url": "https://github.com/ian-collier/sails-blueprints-override/issues"
+  },
+  "homepage": "https://github.com/ian-collier/sails-blueprints-override#readme"
+}
