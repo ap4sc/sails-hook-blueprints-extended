@@ -2,7 +2,9 @@
 
 A Sails.js hook to add custom blueprints, and expose default blueprint functions. Derived from: [sails-hook-custom-blueprints](https://github.com/sgress454/sails-hook-custom-blueprints).
 
-### Installation (inactive)
+** This project is a work in progress **
+
+### Installation
 
 `npm install sails-hook-blueprints-extended --save`
 

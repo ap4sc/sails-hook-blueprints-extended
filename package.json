@@ -15,14 +15,16 @@
     "app-root-path": "^2.1.0",
     "include-all": "^3.0.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ian-collier/sails-blueprints-override.git"
+    "url": "git+https://github.com/ian-collier/sails-hook-blueprints-extended.git"
   },
   "author": "ian-collier",
   "bugs": {
-    "url": "https://github.com/ian-collier/sails-blueprints-override/issues"
+    "url": "https://github.com/ian-collier/sails-hook-blueprints-extended/issues"
   },
-  "homepage": "https://github.com/ian-collier/sails-blueprints-override#readme"
+  "homepage": "https://github.com/ian-collier/sails-hook-blueprints-extended#readme"
 }

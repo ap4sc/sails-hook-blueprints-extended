@@ -7,10 +7,10 @@
  var _ = require('lodash');
 
 /**
- * sails-hook-blueprints-extended hook
+ * sails-hook-blueprints-extended
  *
  * @description :: A hook to set custom sails blueprints, and expose default ones
- * @docs        :: [github]
+ * @docs        :: https://github.com/ian-collier/sails-hook-blueprints-extended#readme
  */
 
 
